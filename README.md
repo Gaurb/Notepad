@@ -13,5 +13,7 @@ Technologies used - C++14 Qt Creator Language used – C++
 
 
 **Output**
+
+
 ![image](https://user-images.githubusercontent.com/89831065/144718446-49e844c1-8504-4708-9ade-d441302bd6fb.png)
 
