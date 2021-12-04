@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/About.png</file>
+        <file>Img/copy.png</file>
+        <file>Img/cut.png</file>
+        <file>Img/File.png</file>
+        <file>Img/kisspng-notepad-microsoft-office-5af578f47f7b92.6294394815260367245222.jpg</file>
+        <file>Img/new.png</file>
+        <file>Img/open.png</file>
+        <file>Img/Redo.png</file>
+        <file>Img/Save.png</file>
+        <file>Img/undo.png</file>
+        <file>Img/exit.png</file>
+        <file>Img/download.png</file>
+        <file>Img/help.png</file>
+        <file>Img/Delete.png</file>
+    </qresource>
+</RCC>
